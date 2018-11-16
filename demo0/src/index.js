@@ -1,1 +1,1 @@
-console.log('xuexi webpack')
+console.log('学习 webpack')
